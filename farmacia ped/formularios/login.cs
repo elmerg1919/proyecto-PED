@@ -121,7 +121,8 @@ namespace farmacia_ped
 
         private void btnAcceso_Click(object sender, EventArgs e)
         {
-            
+            pantalla menu = new pantalla();
+            menu.Show();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

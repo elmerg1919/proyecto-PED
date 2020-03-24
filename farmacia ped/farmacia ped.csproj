@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="formularios\Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Empleados.Designer.cs">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </Compile>
     <Compile Include="formularios\bienvenida.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +80,9 @@
     </Compile>
     <EmbeddedResource Include="formularios\bienvenida.resx">
       <DependentUpon>bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Empleados.resx">
+      <DependentUpon>Empleados.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="formularios\login.resx">
       <DependentUpon>login.cs</DependentUpon>
@@ -115,6 +124,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\93631.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25437.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25437.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

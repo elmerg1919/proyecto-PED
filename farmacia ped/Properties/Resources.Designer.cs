@@ -63,6 +63,26 @@ namespace farmacia_ped.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _25437 {
+            get {
+                object obj = ResourceManager.GetObject("25437", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _254371 {
+            get {
+                object obj = ResourceManager.GetObject("254371", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _54972 {
             get {
                 object obj = ResourceManager.GetObject("54972", resourceCulture);
@@ -86,6 +106,16 @@ namespace farmacia_ped.Properties {
         internal static System.Drawing.Bitmap _93631 {
             get {
                 object obj = ResourceManager.GetObject("93631", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descarga {
+            get {
+                object obj = ResourceManager.GetObject("descarga", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

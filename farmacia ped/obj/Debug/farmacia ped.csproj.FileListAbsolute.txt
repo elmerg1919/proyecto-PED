@@ -24,3 +24,17 @@ C:\Users\ddeu1\source\repos\proyecto-PED2\farmacia ped\obj\Debug\farmacia ped.cs
 C:\Users\ddeu1\source\repos\proyecto-PED2\farmacia ped\obj\Debug\farmacia ped.csproj.CoreCompileInputs.cache
 C:\Users\ddeu1\source\repos\proyecto-PED2\farmacia ped\obj\Debug\farmacia ped.exe
 C:\Users\ddeu1\source\repos\proyecto-PED2\farmacia ped\obj\Debug\farmacia ped.pdb
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\bin\Debug\farmacia ped.exe.config
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\bin\Debug\farmacia ped.exe
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\bin\Debug\farmacia ped.pdb
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia ped.csprojAssemblyReference.cache
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia_ped.bienvenida.resources
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia_ped.login.resources
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia_ped.recuperar.resources
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia_ped.Properties.Resources.resources
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia ped.csproj.GenerateResource.cache
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia ped.csproj.CoreCompileInputs.cache
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia ped.exe
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia ped.pdb
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia_ped.Empleados.resources
+C:\Users\ddeu1\Source\Repos\proyecto-PED3\farmacia ped\obj\Debug\farmacia_ped.pantalla.resources
